@@ -31,6 +31,7 @@
 - [Translation](#translation)
 - [Office](#office)
 - [Forms](#forms)
+- [Booking and Scheduling](#booking-and-scheduling)
 - [Block Lists](#block-lists)
 - [Link Shorteners](#link-shorteners)
 - [Screenshot Tools](#screenshot-tools)
@@ -183,6 +184,8 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Qwant](https://www.qwant.com/) | A European search engine that focuses on privacy and neutrality. It does not track users or use personal data for advertising. Qwant offers results from the web, news, social media, and shopping without profiling. |
 | [MetaGer](https://metager.org/) | A German privacy-friendly metasearch engine that does not track users. It combines results from major search engines and offers additional privacy features like anonymous browsing and encrypted search. |
 | [Swisscows](https://swisscows.com/en) | A Swiss-based privacy-focused search engine that emphasizes family-friendly content. It does not track user data and offers results with AI-based semantic search technology, offering more accurate results without any personal data collection. |
+| [Typesense](https://typesense.org/) | Cutting-edge, in-memory search engine for mere mortals. Knowledge of rocket science optional. |
+| [Fess](https://fess.codelibs.org/) | Providing an Enterprise Search Server as Open Source. |
 
 ## Cloud Storage
 | Name | Description | Open-Source | Comments |
@@ -341,6 +344,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Trilium Notes](https://github.com/zadam/trilium) | Hierarchical, database-backed note app focused on complex structure and deep organization (nested notes, rich properties, automation), suitable for large knowledge bases. |
 | [Cryptee](https://crypt.ee/) | Cryptee is a privacy-first, encrypted cloud service for storing and editing documents, photos, and notes. All your data is end-to-end encrypted on your device before it’s uploaded, so even the service can’t read it. |
 | [Joplin](https://joplinapp.org/) | Joplin is a free, open-source note-taking and to-do app available across platforms that organizes notes and tasks into notebooks with Markdown formatting.program to test wireless capability |
+| [Turtl](https://turtlapp.com/) | The secure, collaborative notebook. |
 
 **Tasks**
 | Name | Description |
@@ -374,6 +378,14 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Yakforms](https://yakforms.org/en/) | Open-source drag-and-drop form builder (successor to Framaforms’ underlying tech), letting you build, share, embed and analyze forms; supports self-hosting. |
 | [Input](https://getinput.co/) | No-code form builder focused on simple, clean forms that you can brand and customize, with self-host options and basic data collection. |
 | [Liberaforms](https://liberaforms.org/en) | Community-driven, free/libre online form platform promoting ethical data handling; often seen as an alternative to proprietary form services and increasingly tied to Framaforms’ ecosystem. |
+
+## Booking and Scheduling
+| Name | Description |
+| --- | --- |
+| [Alf](https://alf.io/) | The open source ticket reservation system. |
+| [Hi](https://hi.events/) | Fair, modern ticketing for everything from nightlife to conferences. Instant payouts. Fully brandable. $0 for organizers. |
+| [Cal](https://cal.com/) | A fully customizable scheduling software for individuals, businesses taking calls and developers building scheduling platforms where users meet users. |
+| [LibreBooking](https://librebooking.readthedocs.io/en/latest/) | LibreBooking is an open-source resource scheduling solution. It provides a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. |
 
 ## Block Lists
 | Name | Description |
