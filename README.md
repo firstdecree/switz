@@ -45,6 +45,8 @@
 - [Payments](#payments)
   - [Ways](#ways)
   - [Virtual Credit Cards (VCC)](#virtual-credit-cards-vcc)
+- [Software Development](#software-development)
+  - [Testing](#testing)
 - [Remote Control](#remote-control)
   - [General](#general)
   - [RDP](#rdp)
@@ -478,6 +480,13 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [MySudo](https://anonyome.com/individuals/mysudo/) | Keep your phone number, email, and top of wallet card safe. |
 | [Exactly](https://www.exactly.app/) | Turn your crypto into instant credit. Get your free Visa Signature Exa Credit Card and access fixed interest loans with the Exa App. |
 
+## Software Development
+### Testing
+| Name | Description |
+| --- | --- |
+| [Bencher](https://bencher.dev/) | Detect and prevent performance regressions before they make it to production with continuous benchmarking. |
+| [WebHook Tester](https://github.com/tarampampam/webhook-tester) | 🔭 Powerful tool for testing WebHooks and more. |
+
 ## Remote Control
 ### General
 | Name | Description |
@@ -878,6 +887,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 ### ChatGPT
 | Name | Description | Comments |
 | --- | --- | --- |
+| [Openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | Perhaps the most user-friendly and convenient personal AI. - NCryptsion |
 | [LocalAI](https://github.com/mudler/LocalAI) | A free, open-source, self-hosted AI stack that lets you run large language models (LLMs), multimodal models, and AI services locally without cloud dependencies. | N/A |
 | [Jan](https://github.com/janhq/jan) | Jan is an open-source alternative to ChatGPT. Run open-source AI models locally or connect to cloud models like GPT, Claude and others. | N/A |
 | [Illama](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++. | N/A |
