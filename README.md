@@ -17,6 +17,7 @@
 - [Online SMS](#online-sms)
 - [Router Firmware](#router-firmware)
 - [VOIP Clients](#voip-clients)
+- [Uptime Status](#uptime-status)
 - [PGP Managers](#pgp-managers)
 - [Networks](#networks)
 - [VPN](#vpn)
@@ -243,6 +244,13 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Mumble](https://www.mumble.info/) | An open-source VoIP voice chat application originally designed for gaming. It provides low-latency, high-quality voice communication, uses a client-server model, and supports encrypted voice chat across platforms (Windows, macOS, Linux, Android, iOS). |
 | [Linphone](https://www.linphone.org/) | A free, open-source SIP-based softphone for VoIP calling, video calls, and instant messaging. It supports standard SIP communication, works across many platforms, and can integrate with IP-PBX or VoIP services for voice and video communication. |
 
+## Uptime Status
+| Name | Description |
+| --- | --- |
+| [Kener](https://kener.ing/) | Stunning docker ready open source status pages. |
+| [Uptime Kuma](https://uptime.kuma.pet/) | A self-hosted monitoring tool. |
+| [Kuvasz Uptime](https://github.com/kuvasz-uptime/kuvasz) | Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more! |
+
 ## PGP Managers
 | Name | Description |
 | --- | --- |
@@ -350,6 +358,9 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | Name | Description |
 | --- | --- |
 | [Vikunja](https://vikunja.io/) | Open-source, self-hostable task and project management app — to-do lists, boards, timelines, and collaborative task tracking for individuals or teams. |
+| [WeKan](https://wekan.fi/) | Experience efficient task management with WeKan - the Open-Source, customizable, and privacy-focused kanban. |
+| [AppFlowy](http://appflowy.com/) | Bring projects, wikis, and teams together with AI. |
+| [Focalboard](https://www.focalboard.com/) | Open source project management for technical teams. |
 
 ## Translation
 | Name | Description |
