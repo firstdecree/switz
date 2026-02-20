@@ -94,6 +94,7 @@
   - [Decentralize](#decentralize)
   - [Centralize](#centralize)
   - [P2P](#p2p)
+  - [Online Chat Rooms](#online-chat-rooms)
 - [Utilities](#utilities-1)
   - [Virtual Machines/Sandboxies](#virtual-machinessandboxies)
   - [Cloaking Images](#cloaking-images)
@@ -271,6 +272,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Retroshare](https://retroshare.cc/) | Retroshare is a decentralized, open-source communication platform that allows users to send messages, share files, and make voice/video calls securely, without relying on a central server. |
 | [Lokinet](https://lokinet.org/) | Lokinet is a privacy-focused, decentralized internet protocol that enables users to access the internet anonymously. |
 | [GNUNet](https://www.gnunet.org/) | GNUNet is a free software framework for decentralized, peer-to-peer networking. |
+| [Paranomix](https://panoramix-project.eu/) | Privacy and Accountability in Networks via Optimized Randomized Mix-nets |
 
 ## VPN
 | Name | Description | Audited | Comments |
@@ -573,6 +575,7 @@ Any non-Windows operating systems.
 | [Guardian Project](https://guardianproject.info/) | We are a global team who builds and designs easy to use secure apps, open-source. |
 | [NetGuard](https://netguard.me/) | A simple way to block access to the internet per application. |
 | [SnoopSnitch](https://f-droid.org/en/packages/de.srlabs.snoopsnitch/) | Collects and analyzes mobile radio data to make you aware of your mobile network security and to warn you about threats like fake base stations (IMSI catchers), user tracking and over-the-air updates. |
+| [Rethink Firewall](https://github.com/celzero/rethink-app) | DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android. |
 
 ## Platforms
 ### Links in Bio (Profile)
@@ -753,6 +756,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Canvas Blocker](https://webextension.org/listing/canvas-fingerprint-blocker.html) | Prevent HTML canvas element from generating a unique identification key to protect user's privacy. |
 | [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) | Some web pages use intermediary pages before redirecting to a final page. This webextension tries to extract the final url from the intermediary url and goes there straight away if successful. |
 | [User Agent Switcher and Manager](https://webextension.org/listing/useragent-switcher.html) | The "User-Agent Switcher and Manager" extension enables you to modify your browser's User-Agent string, which web servers use to deliver content tailored to your browser type and operating system. This can result in different HTML content, styling, or JavaScript behavior. |
+| [Click&Clean](https://chrome-stats.com/d/ghgabhipcejejjmhhchfonmamedcbeod) | Click&Clean is a free and powerful Chrome extension designed to safeguard your privacy and optimize your browsing experience. With just one click, it deletes your typed URLs, browsing history, download history, cache, cookies, and temporary files. |
 
 ## Messengers
 ### Decentralize
@@ -779,6 +783,11 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Briar](https://briarproject.org/) | Secure, decentralized, uses peer-to-peer for offline communication, suitable for activists and those needing extra privacy. | N/A |
 | [Tox](https://tox.chat/) | Free, open-source, decentralized messaging with end-to-end encryption for text, voice, and video. | Hackers favorite. - NCryptsion |
 | [Jami](https://jami.net/) | Decentralized, open-source, fully encrypted messaging platform for text, voice, and video with no central server. | N/A |
+
+### Online Chat Rooms
+| Name | Description | Comments |
+| --- | --- | --- |
+| [Hack.Chat](hack.chat) | Welcome to hack.chat, a minimal, distraction-free chat application. | Awesome. - NCryptsion |
 
 ## Utilities
 ### Virtual Machines/Sandboxies
@@ -887,7 +896,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 ### ChatGPT
 | Name | Description | Comments |
 | --- | --- | --- |
-| [Openclaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | Perhaps the most user-friendly and convenient personal AI. - NCryptsion |
+| [OpenClaw](https://github.com/openclaw/openclaw) | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 | Perhaps the most user-friendly and convenient personal AI. - NCryptsion |
 | [LocalAI](https://github.com/mudler/LocalAI) | A free, open-source, self-hosted AI stack that lets you run large language models (LLMs), multimodal models, and AI services locally without cloud dependencies. | N/A |
 | [Jan](https://github.com/janhq/jan) | Jan is an open-source alternative to ChatGPT. Run open-source AI models locally or connect to cloud models like GPT, Claude and others. | N/A |
 | [Illama](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++. | N/A |
