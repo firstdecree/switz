@@ -23,6 +23,7 @@
 - [VPN](#vpn)
 - [DNS](#dns)
 - [Domain](#domain)
+- [Leaks Check](#leaks-check)
 - [VPS](#vps)
 - [Paste](#paste)
 - [Maps and Navigation](#maps-and-navigation)
@@ -182,7 +183,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | Name | Description |
 | --- | --- |
 | [DuckDuckGo](https://duckduckgo.com/) | A privacy-focused search engine that does not track users or create personal profiles. It aggregates search results from various sources like Bing and its own web crawler to deliver unbiased and secure search results. |
-| [Brave](https://brave.com/search/) | A browser and search engine emphasizing privacy. It blocks trackers, ads, and third-party cookies by default. Brave Search offers privacy-focused results without collecting user data, and it's built on an open-source framework. |
+| [Brave Search](https://brave.com/search/) | A browser and search engine emphasizing privacy. It blocks trackers, ads, and third-party cookies by default. Brave Search offers privacy-focused results without collecting user data, and it's built on an open-source framework. |
 | [SearX](https://metasearx.com/) | An open-source, privacy-oriented metasearch engine that aggregates results from other search engines while not tracking users. It allows users to customize search sources and maintains a high level of anonymity. |
 | [Startpage](https://www.startpage.com/) | A privacy-centric search engine that provides Google search results without tracking or storing any personal data. Startpage acts as a proxy to Google, ensuring that users remain anonymous during searches. |
 | [Qwant](https://www.qwant.com/) | A European search engine that focuses on privacy and neutrality. It does not track users or use personal data for advertising. Qwant offers results from the web, news, social media, and shopping without profiling. |
@@ -303,6 +304,15 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [OrangeWebsite](https://orangewebsite.com/) | A web hosting and domain registration provider that markets itself as privacy- and free-speech-focused, with servers in Iceland and support for anonymous signup and cryptocurrency payments. | <p align="center">🇮🇸</p> |
 | [1984 Hosting](https://www.1984hosting.com/) | An Iceland-based web hosting company founded by civil liberties and Free Software advocates, emphasizing privacy, freedom of expression, and use of renewable energy. | <p align="center">🇮🇸</p> |
 | [Incognet](https://incognet.io/domain-registration) | A privacy-focused internet services provider that lets you register domain names with strong WHOIS privacy by default and pay with cryptocurrencies, and also offers web hosting, VPS, and privacy-oriented tools like WireGuard VPN. | <p align="center">🇺🇸</p>
+
+## Leaks Check
+| Name | Description |
+| --- | --- |
+| [HaveIBeenPwned](https://haveibeenpwned.com/) | Check if your email address is in a data breach. |
+| [Intelx](https://intelx.io/) | Intelligence X is a search engine and data archive. Search Tor, I2P, data leaks and the public web by email, domain, IP, CIDR, Bitcoin address and more. | 
+| [LeakCheck](https://leakcheck.io/) | Find out if your credentials have been compromised. |
+| [CheckLeaked](https://checkleaked.cc/) | Protect your account, discover its leaks, avoid using insecure passwords. Secure your company and your person, know the passwords and information that hackers already have about you. |
+| [BreachDirectory](https://breachdirectory.org/) | BreachDirectory allows you to search through all public data breaches to make sure your emails, usernames, passwords, and domains haven't been compromised. |
 
 ## VPS
 | Name | Description |
@@ -709,6 +719,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [SimpleLogin](https://simplelogin.io/) | A privacy-focused, open-source email aliasing service that lets you create alternate email addresses to protect your real inbox. | "Our" favorite. - NCryptsion |
 | [Addy](https://addy.io/) | An open-source anonymous email forwarding service (formerly AnonAddy) where you register a username and then create unlimited email aliases under domains like @anonaddy.com or your own domain. | N/A |
 | [AliasVault](https://www.aliasvault.net/) | A privacy-first tool that combines password management with email alias generation and identity creation. | It's really good. - NCryptsion |
+| [Firefox Private Relay](https://relay.firefox.com/) | Our secure, easy-to-use email and phone masks help keep your identity private so you can sign up for new accounts anonymously, stop spam texts and junk calls, and get only the emails you want in your inbox. | N/A |
 
 ### Clients
 | Name | Description |
@@ -1035,6 +1046,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- |
 | [Stoat (formerly Revolt)](https://stoat.chat/) | The chat app where you are the main character. |
 | [Rocket](https://www.rocket.chat/) | Secure CommsOS™ for mission-critical operations. Bring together messaging, voice, video, critical apps, and AI to keep teams connected and missions protected. |
+| [Mattermost](https://mattermost.com/) | Secure collaboration, workflow and AI on sovereign infrastructure. Deploy anywhere, control everything. Trusted by governments, enterprises and militaries around the world. |
 
 ### Discord Client
 | Name | Description |
