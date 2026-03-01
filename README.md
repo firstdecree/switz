@@ -191,6 +191,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Swisscows](https://swisscows.com/en) | A Swiss-based privacy-focused search engine that emphasizes family-friendly content. It does not track user data and offers results with AI-based semantic search technology, offering more accurate results without any personal data collection. |
 | [Typesense](https://typesense.org/) | Cutting-edge, in-memory search engine for mere mortals. Knowledge of rocket science optional. |
 | [Fess](https://fess.codelibs.org/) | Providing an Enterprise Search Server as Open Source. |
+| [Ahmia](https://ahmia.fi/) | A search engine for services accessible on the Tor network. |
 
 ## Cloud Storage
 | Name | Description | Open-Source | Comments |
@@ -514,7 +515,13 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 
 ## Operating Systems (OS)
 ### Desktop
-Any non-Windows operating systems.
+Any non-Windows, open-source and privacy-focused operating systems.
+
+| Name | Description |
+| --- | --- |
+| [Tails](https://tails.net/) | Tails is a portable operating system that protects against surveillance and censorship. |
+| [Qubes OS](https://www.qubes-os.org/) | Qubes is a security-oriented, free and open-source operating system for personal computers that allows you to securely compartmentalize your digital life. |
+| [Whonix](https://www.whonix.org/) | As handy as an app - delivering maximum anonymity and security. |
 
 ### Android
 | Name | Description |
