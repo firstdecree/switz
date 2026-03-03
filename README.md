@@ -134,6 +134,7 @@
   - [Blogging](#blogging)
   - [Discord](#discord)
   - [Discord Client](#discord-client)
+- [Related](#related)
 
 ## Quotes
 - *"Friends don’t spy; true friendship is about privacy, too."* - Stephen King
@@ -192,6 +193,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Typesense](https://typesense.org/) | Cutting-edge, in-memory search engine for mere mortals. Knowledge of rocket science optional. |
 | [Fess](https://fess.codelibs.org/) | Providing an Enterprise Search Server as Open Source. |
 | [Ahmia](https://ahmia.fi/) | A search engine for services accessible on the Tor network. |
+| [SearXNG](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. |
 
 ## Cloud Storage
 | Name | Description | Open-Source | Comments |
@@ -968,6 +970,8 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [F-Droid](https://f-droid.org/) | A platform offering open-source Android apps, with a focus on privacy and security. |
 | [FossDroid](https://fossdroid.com/) | A website that catalogs open-source Android apps, similar to F-Droid, emphasizing free software. |
 | [Aurora Store](https://auroraoss.com/) | An alternative Android app store that allows users to download apps from the Google Play Store anonymously. |
+| [Accrescent](https://github.com/accrescent/accrescent) | A novel Android app store focused on security, privacy, and usability. |
+| [Obtainium](https://github.com/ImranR98/Obtainium) | Get Android app updates straight from the source. |
 
 ### Github
 | Name | Description |
@@ -986,6 +990,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Minds](https://www.minds.com/) | A decentralized social platform focused on freedom of speech and privacy, with the ability for users to earn cryptocurrency (Minds tokens) based on engagement. |
 | [Nitter](https://nitter.net/) | Nitter is a free and open source alternative Twitter front-end focused on privacy and performance. |
 | [Feetter](https://codeberg.org/pluja/Feetter) | Create and manage anonymous feeds in Nitter with a simple, fast web interface. |
+| [Pixelfed](https://pixelfed.org/) | A fresh take on photo sharing. Get inspired with beautiful photos captured by people around the world. |
 
 ### Youtube
 | Name | Description |
@@ -1062,6 +1067,11 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [BetterDiscord](https://betterdiscord.app/) | An unofficial desktop Discord client mod that injects extra functionality into the standard Discord app, like support for custom themes and plugins, live CSS editing, and various UX tweaks. |
 | [Vencord](https://github.com/Vendicated/Vencord) | A modern Discord client modification (often used via an injector or patched client) that enhances Discord with built-in plugins and theme support, blocks analytics/telemetry, and offers a plugin browser. |
 | [Legcord](https://github.com/Legcord/Legcord) | A standalone custom Discord client (not just a patch of the official app) that wraps Discord’s web client with extra features: built-in mod support (e.g., Vencord), theme support (including BetterDiscord themes), tracker blocking, better stability/performance, and cross-platform compatibility. Like others here, it’s not officially sanctioned by Discord. |
+
+## Related
+- https://prism-break.org/en/
+- https://www.privacytools.io/
+- https://www.reddit.com/r/privacy/
 
 <div align="center">
   <sub>This project is distributed under <a href="/LICENSE"><b>MIT License</b></a></sub>
