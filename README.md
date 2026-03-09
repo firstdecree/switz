@@ -8,6 +8,7 @@
 # Contents
 - [Quotes](#quotes)
 - [Top Countries](#top-countries)
+- [Highlight](#highlight)
 - [2FA](#2fa)
 - [Encryptions](#encryptions)
 - [Search Engines](#search-engines)
@@ -158,6 +159,12 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 9. **Ireland** - Key GDPR enforcer with massive fines on tech giants despite hosting them.
 1. **Netherlands** - High GDPR compliance focus and Uber-scale penalties.
 
+## Highlight
+| Name | Description |
+| --- | --- |
+| [CryptedNote](https://github.com/firstdecree/cryptednote) | Anonymously and Securely save notes anytime with ease. |
+| [VoidFile](https://github.com/firstdecree/voidfile) | Upload files completely anonymously, no registration required. |
+| [ShadowNetwork](https://github.com/firstdecree/shadownetwork) | Store your contacts securely and indefinitely with ease and convenience. |
 
 ## 2FA
 | Name | Description |
