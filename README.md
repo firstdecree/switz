@@ -13,6 +13,7 @@
 - [Encryptions](#encryptions)
 - [Search Engines](#search-engines)
 - [Cloud Storage](#cloud-storage)
+  - [S3](#s3)
 - [Accounts Managers](#accounts-managers)
 - [File Sharing](#file-sharing)
 - [Online SMS](#online-sms)
@@ -213,6 +214,12 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [pCloud](https://www.pcloud.com/) | pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your team! | <p align="center">❌</p> | N/A |
 | [Sync](https://www.sync.com/en/) | Sync.com is a cloud storage service that places privacy and security at the forefront. It offers end-to-end encryption for all files stored in the cloud. | <p align="center">❌</p> |  N/A |
 | [Icedrive](https://icedrive.net/) | Icedrive is a cloud storage service focused on security, performance, and ease of use. It offers zero-knowledge encryption. | <p align="center">❌</p> | Great interface and policies, sadly it's not open-source. - NCryptsion |
+
+### S3
+| Name | Description | Open-Source | Comments |
+| --- | --- | --- | --- |
+| [S3Drive](https://s3drive.app/) | Zero Knowledge E2E encrypted storage compatible with multiple providers. | <p align="center">❌</p> | Very friendly owner, one of my favorite. - NCryptsion |
+| [Storj](https://www.storj.io/) | Get S3 compatible object storage and compute with local-like access. No lock-ins. Blazing fast. 80% lower costs. | <p align="center">❌</p> | N/A |
 
 ## Accounts Managers
 | Name | Description | Comments |
@@ -770,6 +777,9 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Firefox](https://www.mozilla.org/firefox) | Firefox is a fast, privacy-focused browser that is open-source and designed to give users control over their online experience. | Cross-Platform | N/A |
 | [Iridium](https://iridiumbrowser.de/) | Iridium Browser is a privacy-focused web browser that is based on Chromium. | N/A | N/A |
 | [Thorium](https://thorium.rocks/) | Thorium is a web browser based on Chromium with a strong focus on privacy and open-source principles. | Cross-Platform | N/A |
+| [Vanadium](https://github.com/GrapheneOS/Vanadium) | Privacy and security enhanced releases of Chromium for GrapheneOS. | GrapheneOS | N/A |
+| [Bromite](https://www.bromite.org/) | Bromite is a Chromium fork with ad blocking and privacy enhancements; take back your browser! | Android | N/A |
+| [SnowHaze](https://snowhaze.com/en/index.html) | SnowHaze empowers you to take back the control over your personal data, and we spare no effort to provide you the most secure browsing experience and internet access. | IOS | N/A |
 
 ### Chrome Extensions
 | Name | Description |
@@ -812,6 +822,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Briar](https://briarproject.org/) | Secure, decentralized, uses peer-to-peer for offline communication, suitable for activists and those needing extra privacy. | N/A |
 | [Tox](https://tox.chat/) | Free, open-source, decentralized messaging with end-to-end encryption for text, voice, and video. | Hackers favorite. - NCryptsion |
 | [Jami](https://jami.net/) | Decentralized, open-source, fully encrypted messaging platform for text, voice, and video with no central server. | N/A |
+| [Berty](https://berty.tech/) | Berty NGO’s aim is to facilitate open and free communication without any limitations imposed by centralized systems. | N/A |
 
 ### Online Chat Rooms
 | Name | Description | Comments |
