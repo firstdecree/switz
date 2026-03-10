@@ -377,6 +377,8 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Cryptee](https://crypt.ee/) | Cryptee is a privacy-first, encrypted cloud service for storing and editing documents, photos, and notes. All your data is end-to-end encrypted on your device before it’s uploaded, so even the service can’t read it. |
 | [Joplin](https://joplinapp.org/) | Joplin is a free, open-source note-taking and to-do app available across platforms that organizes notes and tasks into notebooks with Markdown formatting.program to test wireless capability |
 | [Turtl](https://turtlapp.com/) | The secure, collaborative notebook. |
+| [NextCloud Notes](https://github.com/nextcloud/notes/) | Distraction-free notes and writing. |
+| [Laverna](https://github.com/Laverna/laverna) | Laverna is a JavaScript note taking application with Markdown editor and encryption support. |
 
 **Tasks**
 | Name | Description |
