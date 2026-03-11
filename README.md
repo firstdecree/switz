@@ -651,6 +651,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Rabby](https://rabby.io/) | Rabby is a browser extension and crypto wallet focused on supporting Ethereum and Ethereum-compatible chains. It integrates with decentralized finance (DeFi) protocols and supports multiple tokens. | 🔥 | N/A |
 | [Gem Wallet](https://gemwallet.com/) | Secure & Open-Source Crypto Wallet ... safely and effortlessly! We’ve built Gem Wallet as an open-source, user-friendly, and secure self-custody cryptocurrency wallet. | 🔥 | This one is nice, perhaps a smooth and clean version of Backpack. - NCryptsion |
 | [Sparrow Wallet](https://sparrowwallet.com/) | Sparrow is a Bitcoin wallet for those who value financial self sovereignty. Sparrow’s emphasis is on security, privacy and usability | 🔥 | N/A |
+| [Samourai Wallet](https://samouraiwallet.com/) | A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured. | 🔥 | N/A |
 
 ### Exchangers
 | Name | Description |
@@ -924,6 +925,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Altcha](https://altcha.org/) | Secure your data and users with the privacy-first alternative to reCAPTCHA. ALTCHA eliminates tracking, cookies, and fingerprinting, delivering a robust, accessible, and globally compliant security without a single puzzle. |
 | [GoCaptcha](https://github.com/wenlng/go-captcha) | GoCaptcha is a behavior captcha, which implements click mode, slider mode, drag-drop mode and rotation mode. |
 | [Friendly Captcha](https://friendlycaptcha.com/) | Protect your websites and apps from spam and abuse with a privacy-compliant and accessible alternative to traditional CAPTCHAs. Friendly Captcha respects your user’s privacy and works automatically, so your users don’t have to do anything. |
+| [DoomCaptcha](https://github.com/vivirenremoto/doomcaptcha) | Captchas don't have to be boring. |
 
 ### Comments Engines
 | Name | Description |
