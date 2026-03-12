@@ -108,6 +108,7 @@
   - [Files Shredders](#files-shredders)
   - [Metadata Removal](#metadata-removal)
 - [Development](#development)
+  - [Database](#database)
   - [Analytics](#analytics)
   - [App Notifications](#app-notifications)
   - [Code Editors](#code-editors)
@@ -307,13 +308,15 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 ## DNS
 | Name | Description | No-Logging |
 | --- | --- | --- |
+| [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls) | Mullvad DNS. Period. | <p align="center">✅</p> |
 | [NextDNS](https://nextdns.io/) | NextDNS is a privacy-focused, customizable DNS service that offers advanced features such as content filtering, malware blocking, and ad-blocking. | <p align="center">✅</p> |
 | [ControlD](https://controld.com/) | Control D's DNS filtering software blocks unwanted websites, prevents malware, enforces web policies, and strengthens network security in minutes. | <p align="center">✅</p> |
-| [Quad9](https://quad9.net/) | Quad9 is a security-focused DNS provider that prioritizes privacy and protection from malicious websites. | <p align="center">✅ (anonymous)</p> |
+| [Quad9](https://quad9.net/) | Quad9 is a security-focused DNS provider that prioritizes privacy and protection from malicious websites. | <p align="center">✅ <br>(anonymous)</p> |
 | [DNS Watch](https://dns.watch/) | DNS Watch is a free, privacy-conscious DNS service that emphasizes unfiltered, uncensored internet access. | <p align="center">✅</p> |
 | [Uncensored DNS](https://uncensoreddns.org/) | Uncensored DNS is a DNS provider that aims to provide unrestricted and uncensored internet access. | <p align="center">✅</p> |
 | [AdGuard](https://adguard.com/en/adguard-dns/overview.html) | Open-source DNS provider, specialising in the blocking of ads, trackers and malicious domains. They have been independently audited and do not keep logs. | <p align="center">✅</p> |
 | [deSec](https://desec.io/) | deSEC is a free DNS hosting service, designed with security in mind. | <p align="center">✅</p> |
+| [BlahDNS](https://blahdns.com/) | A hobby Adblock DNS project with DoH, DoT, DoQ, DNSCryptv2 and DNS over DTLS support. | <p align="center">✅<br>(vague)</p> |
 
 ## Domain
 | Name | Description | Jurisdiction |
@@ -401,6 +404,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [LibreTranslate](https://libretranslate.com/) | Open Source Machine Translation API. Free to download. Offline Capable. Easy to Setup. |
 | [Apertium](https://apertium.org/index.eng.html#?dir=eng-epo&q) | A free/open-source machine translation platform. |
 | [Linguist](https://linguister.io/) | Linguist is a privacy‑focused, full‑featured translation solution. |
+| [Private Machine Translation](https://private.mt/) | Private machine translation, running locally on your device. | 
 
 ## Office
 | Name | Description |
@@ -548,6 +552,8 @@ Any non-Windows, open-source and privacy-focused operating systems.
 | [CalyxOS](https://calyxos.org/) | A privacy-focused Android OS that balances security, privacy, and usability. It includes features like an integrated VPN, secure communications (via apps like Signal), and strong protections against data leakage, while also providing compatibility with Google services, which GrapheneOS doesn’t. |
 | [LineageOS](https://lineageos.org/) | A community-driven, open-source Android OS known for being a popular custom ROM. It offers more control and customization compared to stock Android and supports a wide range of devices. |
 | [Replicant](https://www.replicant.us/) | An open-source Android-based OS with a focus on freedom, privacy, and security. Replicant is different in that it tries to eliminate proprietary software (drivers and firmware) to ensure a fully free and open mobile experience. |
+| [Mobian](https://mobian-project.org/) | A Debian derivative for mobile devices. |
+| [Plasma Mobile](https://plasma-mobile.org/) | Privacy-respecting, open source and secure phone ecosystem. |
 
 ## Android
 ### Launchers
@@ -889,6 +895,16 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [ImageOptim](https://imageoptim.com/mac) | A Mac image optimization tool that reduces file size without losing quality and also strips out unnecessary metadata (including EXIF) to save disk space and speed up web delivery. | N/A |
 
 ## Development
+### Database
+| Name | Description |
+| --- | --- |
+| [MySQL](https://www.mysql.com/) | MySQL is an open-source relational database management system (RDBMS) that uses Structured Query Language (SQL) to manage and manipulate data. |
+| [Supabase](https://supabase.io/) | Open source Firebase alternative. |
+| [Appwrite](https://appwrite.io/) | Secure open-source backend server for web, mobile & Flutter developers. |
+| [MongoDB](https://github.com/mongodb/mongo) | The MongoDB database open source for self hosting. |
+| [Apache Cassandra](https://cassandra.apache.org/) | Manage massive amounts of data, fast, without losing sleep. |
+| [Condensation](https://github.com/CondensationDS/Condensation) | Condensation is an open-source data system for building cloud applications while keeping the ownership of data. |
+
 ### Analytics
 | Name | Description | Jurisdiction | Open-Source | Comments |
 | --- | --- | --- | --- | --- |
