@@ -41,6 +41,7 @@
 - [Screenshot Tools](#screenshot-tools)
 - [Photo Editors](#photo-editors)
 - [Video Editors](#video-editors)
+- [Location Tracking](#location-tracking)
 - [News Readers](#news-readers)
 - [3D Graphics](#3d-graphics)
 - [Recording](#recording)
@@ -211,8 +212,8 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Proton Drive](https://proton.me/drive) | Proton Drive is a secure cloud storage service developed by Proton, the same team behind Proton Mail. | <p align="center">✅</p> | N/A |
 | [Filen](https://filen.io/) | Reliable zero-knowledge, client-side encrypted cloud storage you can trust. Experience uncompromised security without sacrificing functionality. | <p align="center">✅</p> | The one with the best customer support in my opinion. - NCryptsion |
 | [MegaNZ](https://mega.nz/) | Mega.nz is a cloud storage service that offers end-to-end encryption for your files. With generous free storage (up to 20 GB), Mega lets you upload, sync, and share files securely. | <p align="center">✅</p> | N/A |
-| [Internxt](https://internxt.com/) | Internxt offers cloud storage with a strong focus on privacy and decentralization. | <p align="center">✅</p> | N/A |
-| [pCloud](https://www.pcloud.com/) | pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your team! | <p align="center">❌</p> | N/A |
+| [Internxt](https://internxt.com/) | Internxt offers cloud storage with a strong focus on privacy and decentralization. | <p align="center">✅</p> | Bad support, too much allegations. - NCryptsion |
+| [pCloud](https://www.pcloud.com/) | pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your team! | <p align="center">❌</p> | They scan your files. - NCryptsion |
 | [Sync](https://www.sync.com/en/) | Sync.com is a cloud storage service that places privacy and security at the forefront. It offers end-to-end encryption for all files stored in the cloud. | <p align="center">❌</p> |  N/A |
 | [Icedrive](https://icedrive.net/) | Icedrive is a cloud storage service focused on security, performance, and ease of use. It offers zero-knowledge encryption. | <p align="center">❌</p> | Great interface and policies, sadly it's not open-source. - NCryptsion |
 
@@ -245,6 +246,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper. | N\A |
 | [Send](https://gitlab.com/timvisee/send) | A fork of Mozilla's Firefox Send. Mozilla discontinued Send, this fork is a community effort to keep the project up-to-date and alive. | N\A |
 | [Croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another 🐊 📦 | N/A |
+| [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) | Get things from one computer to another, safely. | N/A |
 
 ## Online SMS
 | Name | Description |
@@ -472,6 +474,13 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative. |
 | [Shotcut](https://www.shotcut.org/) | Shotcut is a free, open source, cross-platform video editor. |
 
+## Location Tracking
+| Name | Description |
+| --- | --- |
+| [Nextcloud Phonetrack](https://apps.nextcloud.com/apps/phonetrack) | Nextcloud app to track location history with an Android app. Supports caching positions offline and sending them to the server in batches. The first-party app has good battery saving options. |
+| [OwnTracks](https://owntracks.org/) | OwnTracks allows you to keep track of your own location. You can build your private location diary or share it with your family and friends. |
+| [Traccar](https://www.traccar.org/) | Location tracking software made for dedicated GPS logging devices. |
+
 ## News Readers
 | Name | Description |
 | --- | --- |
@@ -495,6 +504,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 ## Video and Audio Conferencing
 | Name | Description | Comments |
 | --- | --- | --- |
+| [Nextcloud Talk](https://nextcloud.com/talk/) | The first privacy-respecting communication platform for online collaboration through meetings, chat and webinars. All in one application. | N/A |
 | [Jami](https://jami.net/) | A free, open-source, peer-to-peer communication app focused on privacy. It lets you chat, make voice/video calls, share files, and hold video conferences without central servers. All communication is end-to-end encrypted and directly between users. | N/A |
 | [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | An open-source video conferencing platform that allows secure, easy-to-use, and scalable video meetings without the need for an account. | N/A |
 | [Jam](https://github.com/jam-systems/jam) | An open-source audio communication tool, often used for team collaboration or group conversations, focusing on simplicity and ease of use. | N/A |
@@ -563,6 +573,7 @@ Any non-Windows, open-source and privacy-focused operating systems.
 | [KISSLauncher](https://kisslauncher.com/) | Launcher for Android requiring nearly no memory to run. | Freakily beautiful. - NCryptsion |
 | [OpenLauncher](https://github.com/OpenLauncherTeam/openlauncher) | Customizable and Open Source Launcher for Android. | N/A |
 | [OLauncher](https://github.com/tanujnotes/Olauncher) | Minimal AF Launcher for Android. Reduce your screen time. Daily wallpapers. | N/A |
+| [Rootless Pixel Launcher](https://github.com/amirzaidi/Launcher3) | The Launcher3 fork known as "Rootless Pixel Launcher". | N/A |
 
 ### Files Manager
 | Name | Description |
@@ -803,6 +814,8 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Skip Redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) | Some web pages use intermediary pages before redirecting to a final page. This webextension tries to extract the final url from the intermediary url and goes there straight away if successful. |
 | [User Agent Switcher and Manager](https://webextension.org/listing/useragent-switcher.html) | The "User-Agent Switcher and Manager" extension enables you to modify your browser's User-Agent string, which web servers use to deliver content tailored to your browser type and operating system. This can result in different HTML content, styling, or JavaScript behavior. |
 | [Click&Clean](https://chrome-stats.com/d/ghgabhipcejejjmhhchfonmamedcbeod) | Click&Clean is a free and powerful Chrome extension designed to safeguard your privacy and optimize your browsing experience. With just one click, it deletes your typed URLs, browsing history, download history, cache, cookies, and temporary files. |
+| [Change Timezone](https://chromewebstore.google.com/detail/change-timezone-time-shif/nbofeaabhknfdcpoddmfckpokmncimpj) | Easily change your timezone to a desired value and protect your privacy. |
+| [Unshorten.link](https://chromewebstore.google.com/detail/unshortenlink/gbobdaaeaihkghbokihkofcbndhmbdpd) | ith the Unshorten.link extension, any shortened link (such as bit.ly or t.co) you click on will be automatically expanded and analyzed for malware giving you a clear view of where the link is taking you. |
 
 ## Messengers
 ### Decentralize
@@ -864,6 +877,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. |
 | [Persepolis](https://github.com/persepolisdm/persepolis) | Persepolis is a download manager written in Python. Persepolis is a sample of free and open-source software. It's developed for GNU/Linux distributions, BSDs, macOS, and Microsoft Windows. |
 | [AB Download Manager](https://abdownloadmanager.com/) | With this app, you can easily download files from anywhere. Enjoy fast, free downloads with seamless browser extension support. |
+| [Motrix](https://github.com/agalwood/Motrix) | A full-featured download manager. |
 
 ### Torrent Clients
 | Name | Description | Comments |
@@ -904,6 +918,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [MongoDB](https://github.com/mongodb/mongo) | The MongoDB database open source for self hosting. |
 | [Apache Cassandra](https://cassandra.apache.org/) | Manage massive amounts of data, fast, without losing sleep. |
 | [Condensation](https://github.com/CondensationDS/Condensation) | Condensation is an open-source data system for building cloud applications while keeping the ownership of data. |
+| [MariaDB](https://mariadb.org/) | MariaDB is one of the most popular open source relational databases. |
 
 ### Analytics
 | Name | Description | Jurisdiction | Open-Source | Comments |
