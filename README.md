@@ -9,11 +9,10 @@
 - [Quotes](#quotes)
 - [Top Countries](#top-countries)
 - [Highlight](#highlight)
+- [Blogs](#blogs)
 - [2FA](#2fa)
 - [Encryptions](#encryptions)
 - [Search Engines](#search-engines)
-- [Cloud Storage](#cloud-storage)
-  - [S3](#s3)
 - [Accounts Managers](#accounts-managers)
 - [File Sharing](#file-sharing)
 - [Online SMS](#online-sms)
@@ -43,12 +42,17 @@
 - [Video Editors](#video-editors)
 - [Location Tracking](#location-tracking)
 - [News Readers](#news-readers)
+- [Platforms Users Reviews](#platforms-users-reviews)
 - [3D Graphics](#3d-graphics)
 - [Recording](#recording)
 - [Video and Audio Conferencing](#video-and-audio-conferencing)
 - [Payments](#payments)
   - [Ways](#ways)
   - [Virtual Credit Cards (VCC)](#virtual-credit-cards-vcc)
+- [Mass Surveillance Projects](#mass-surveillance-projects)
+  - [NSA](#nsa)
+- [Cloud Storage](#cloud-storage)
+  - [S3](#s3)
 - [Software Development](#software-development)
   - [Testing](#testing)
 - [Remote Control](#remote-control)
@@ -138,6 +142,7 @@
   - [Blogging](#blogging)
   - [Discord](#discord)
   - [Discord Client](#discord-client)
+- [References](#references)
 - [Related](#related)
 
 ## Quotes
@@ -168,6 +173,16 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [CryptedNote](https://github.com/firstdecree/cryptednote) | Anonymously and Securely save notes anytime with ease. |
 | [VoidFile](https://github.com/firstdecree/voidfile) | Upload files completely anonymously, no registration required. |
 | [ShadowNetwork](https://github.com/firstdecree/shadownetwork) | Store your contacts securely and indefinitely with ease and convenience. |
+
+## Blogs
+| Name | Description |
+| --- | --- |
+| [The Privacy Blog](https://theprivacyblog.com/) | personal blog discussing internet privacy, cybersecurity risks, surveillance issues, and practical security advice written by privacy technologist Lance Cottrell. |
+| [PrivacyDesk](https://privacydesk.in/) | A platform offering resources, training, and consulting on data protection laws, privacy compliance, and privacy program implementation for organizations. |
+| [Hunton Privacy Blog](https://www.hunton.com/privacy-and-cybersecurity-law-blog/) | A legal blog from Hunton Andrews Kurth lawyers that analyzes global privacy, cybersecurity, and data protection law developments. |
+| [Inside Privacy](https://www.insideprivacy.com/) | A law-firm blog providing updates and analysis on data privacy, cybersecurity, and related legislation or court rulings. |
+| [TeachPrivacy](https://teachprivacy.com/) | A provider of online privacy and data-security training courses for organizations, covering topics like GDPR, HIPAA, and security awareness. |
+| [Spread Privacy](https://spreadprivacy.com/) | A privacy-education blog (run by DuckDuckGo) explaining online tracking, privacy risks, and tools to protect personal data online. |
 
 ## 2FA
 | Name | Description |
@@ -204,24 +219,6 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Fess](https://fess.codelibs.org/) | Providing an Enterprise Search Server as Open Source. |
 | [Ahmia](https://ahmia.fi/) | A search engine for services accessible on the Tor network. |
 | [SearXNG](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. |
-
-## Cloud Storage
-| Name | Description | Open-Source | Comments |
-| --- | --- | --- | --- |
-| [Nextcloud](https://nextcloud.com/) | Nextcloud is an open-source platform that enables you to store, share, and collaborate on files in a secure environment. You can host it yourself, giving you full control over your data, or use it with a trusted provider. | <p align="center">✅</p> | N/A |
-| [Proton Drive](https://proton.me/drive) | Proton Drive is a secure cloud storage service developed by Proton, the same team behind Proton Mail. | <p align="center">✅</p> | N/A |
-| [Filen](https://filen.io/) | Reliable zero-knowledge, client-side encrypted cloud storage you can trust. Experience uncompromised security without sacrificing functionality. | <p align="center">✅</p> | The one with the best customer support in my opinion. - NCryptsion |
-| [MegaNZ](https://mega.nz/) | Mega.nz is a cloud storage service that offers end-to-end encryption for your files. With generous free storage (up to 20 GB), Mega lets you upload, sync, and share files securely. | <p align="center">✅</p> | N/A |
-| [Internxt](https://internxt.com/) | Internxt offers cloud storage with a strong focus on privacy and decentralization. | <p align="center">✅</p> | Bad support, too much allegations. - NCryptsion |
-| [pCloud](https://www.pcloud.com/) | pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your team! | <p align="center">❌</p> | They scan your files. - NCryptsion |
-| [Sync](https://www.sync.com/en/) | Sync.com is a cloud storage service that places privacy and security at the forefront. It offers end-to-end encryption for all files stored in the cloud. | <p align="center">❌</p> |  N/A |
-| [Icedrive](https://icedrive.net/) | Icedrive is a cloud storage service focused on security, performance, and ease of use. It offers zero-knowledge encryption. | <p align="center">❌</p> | Great interface and policies, sadly it's not open-source. - NCryptsion |
-
-### S3
-| Name | Description | Open-Source | Comments |
-| --- | --- | --- | --- |
-| [S3Drive](https://s3drive.app/) | Zero Knowledge E2E encrypted storage compatible with multiple providers. | <p align="center">❌</p> | Very friendly owner, one of my favorite. - NCryptsion |
-| [Storj](https://www.storj.io/) | Get S3 compatible object storage and compute with local-like access. No lock-ins. Blazing fast. 80% lower costs. | <p align="center">❌</p> | N/A |
 
 ## Accounts Managers
 | Name | Description | Comments |
@@ -487,6 +484,11 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [RSSOwl](https://www.rssowl.org/) | Organize, search, and read feeds. |
 | [Feedly](https://feedly.com/) | Offers a premium news aggregation experience, presenting news from chosen sources in a clean, modern interface. |
 
+## Platforms Users Reviews
+| Name | Description |
+| --- | --- |
+| [Trustpilot](https://www.trustpilot.com/) | Trustpilot is a global review platform founded. |
+
 ## 3D Graphics
 | Name | Description |
 | --- | --- |
@@ -524,6 +526,42 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Privacy](https://www.privacy.com/) | Privacy and security built into your payments. |
 | [MySudo](https://anonyome.com/individuals/mysudo/) | Keep your phone number, email, and top of wallet card safe. |
 | [Exactly](https://www.exactly.app/) | Turn your crypto into instant credit. Get your free Visa Signature Exa Credit Card and access fixed interest loans with the Exa App. |
+
+## Mass Surveillance Projects
+They are summarized here because the information of these projects are big, for more information please click their name.
+
+### NSA
+| Name | Description |
+|-----|-------------|
+| [Prism](https://en.wikipedia.org/wiki/PRISM) | Collects information from big tech companies databases. |
+| [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore) | Collects Internet activity, emails, chats, browsing histories & more. |
+| [FASCIA](https://en.wikipedia.org/wiki/FASCIA) | Collects location data of people around the world. |
+| [Optic Nerve](https://en.wikipedia.org/wiki/Optic_Nerve_(surveillance_program)) | Collects private webcam still images from users while they are using a Yahoo! webcam application. |
+| [Boundless Informant](https://en.wikipedia.org/wiki/Boundless_Informant) | A big data analysis and data visualization tool used by the United States National Security Agency. |
+| [Dishfire](https://en.wikipedia.org/wiki/Dishfire) | Collects text messages on a daily basis from around the world. |
+| [Mystic](https://en.wikipedia.org/wiki/MYSTIC_(surveillance_program)) | Collects telephone calls, including metadata and a full record of call contents. |
+| [Muscular](https://en.wikipedia.org/wiki/Muscular_(surveillance_program)) | Wiretaps of Google and Yahoo unencrypted internal networks. |
+| [MainWay](https://en.wikipedia.org/wiki/Mainway) | NSA database containing metadata of hundreds of billions of telephone calls. |
+| [BullRun](https://en.wikipedia.org/wiki/Bullrun_(decryption_program)) | Eavesdrops on encrypted communications by influencing and weakening encryption standards, obtaining master encryption keys, and accessing data before or after encryption. |
+| [FAMS Quiet Skies](https://en.wikipedia.org/wiki/Quiet_Skies) | Surveillance program monitoring airline travelers. |
+
+## Cloud Storage
+| Name | Description | Open-Source | Comments |
+| --- | --- | --- | --- |
+| [Nextcloud](https://nextcloud.com/) | Nextcloud is an open-source platform that enables you to store, share, and collaborate on files in a secure environment. You can host it yourself, giving you full control over your data, or use it with a trusted provider. | <p align="center">✅</p> | N/A |
+| [Proton Drive](https://proton.me/drive) | Proton Drive is a secure cloud storage service developed by Proton, the same team behind Proton Mail. | <p align="center">✅</p> | N/A |
+| [Filen](https://filen.io/) | Reliable zero-knowledge, client-side encrypted cloud storage you can trust. Experience uncompromised security without sacrificing functionality. | <p align="center">✅</p> | The one with the best customer support in my opinion. - NCryptsion |
+| [MegaNZ](https://mega.nz/) | Mega.nz is a cloud storage service that offers end-to-end encryption for your files. With generous free storage (up to 20 GB), Mega lets you upload, sync, and share files securely. | <p align="center">✅</p> | N/A |
+| [Internxt](https://internxt.com/) | Internxt offers cloud storage with a strong focus on privacy and decentralization. | <p align="center">✅</p> | Bad support, too much allegations. - NCryptsion |
+| [pCloud](https://www.pcloud.com/) | pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your team! | <p align="center">❌</p> | They scan your files. - NCryptsion |
+| [Sync](https://www.sync.com/en/) | Sync.com is a cloud storage service that places privacy and security at the forefront. It offers end-to-end encryption for all files stored in the cloud. | <p align="center">❌</p> |  N/A |
+| [Icedrive](https://icedrive.net/) | Icedrive is a cloud storage service focused on security, performance, and ease of use. It offers zero-knowledge encryption. | <p align="center">❌</p> | Great interface and policies, sadly it's not open-source. - NCryptsion |
+
+### S3
+| Name | Description | Open-Source | Comments |
+| --- | --- | --- | --- |
+| [S3Drive](https://s3drive.app/) | Zero Knowledge E2E encrypted storage compatible with multiple providers. | <p align="center">❌</p> | Very friendly owner, one of my favorite. - NCryptsion |
+| [Storj](https://www.storj.io/) | Get S3 compatible object storage and compute with local-like access. No lock-ins. Blazing fast. 80% lower costs. | <p align="center">❌</p> | N/A |
 
 ## Software Development
 ### Testing
@@ -589,6 +627,7 @@ Any non-Windows, open-source and privacy-focused operating systems.
 | [Gallery](https://github.com/FossifyOrg/Gallery) | Browse your memories without any interruptions with this photo and video gallery. |
 | [Aves](https://github.com/deckerst/aves) | Aves is a gallery and metadata explorer app, built for Android with Flutter. |
 | [Simple Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery&hl=en_GB) | Simple Gallery brings you all the photo viewing and editing features you have been missing on your Android in one stylish easy-to-use app. |
+| [Photok](https://github.com/leonlatsch/Photok) | Encrypted Gallery App for Android. |
 
 ### Dialer
 | Name | Description |
@@ -1120,6 +1159,17 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [BetterDiscord](https://betterdiscord.app/) | An unofficial desktop Discord client mod that injects extra functionality into the standard Discord app, like support for custom themes and plugins, live CSS editing, and various UX tweaks. |
 | [Vencord](https://github.com/Vendicated/Vencord) | A modern Discord client modification (often used via an injector or patched client) that enhances Discord with built-in plugins and theme support, blocks analytics/telemetry, and offers a plugin browser. |
 | [Legcord](https://github.com/Legcord/Legcord) | A standalone custom Discord client (not just a patch of the official app) that wraps Discord’s web client with extra features: built-in mod support (e.g., Vencord), theme support (including BetterDiscord themes), tracker blocking, better stability/performance, and cross-platform compatibility. Like others here, it’s not officially sanctioned by Discord. |
+
+## References
+Some of the things here are from the sources below.
+
+- [Ultimate Privacy Guide by AletheiaLab](https://github.com/aletheialab/ultimate-privacy-guide)
+- [Awesome Privacy by Josehbez](https://github.com/josehbez/awesome-privacy)
+- [Awesome Privacy by Pluja](https://github.com/pluja/awesome-privacy)
+- [Personal Security Checklist by Lissy93](https://github.com/Lissy93/personal-security-checklist)
+- [Awesome Privacy by Lissy93](https://github.com/Lissy93/awesome-privacy)
+- [5 NSA Programs You Should Know About by RadioOpensource](https://radioopensource.org/the-five-nsa-programs-you-should-know-about/)
+- [List of Government Mass Surveillance Projects by Wikipedia](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects)
 
 ## Related
 - https://prism-break.org/en/
