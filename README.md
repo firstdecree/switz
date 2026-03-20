@@ -96,6 +96,7 @@
   - [Clients](#clients-1)
   - [Security](#security)
   - [Temporary](#temporary)
+  - [Addons](#addons)
 - [Browsers](#browsers)
   - [Chrome Extensions](#chrome-extensions)
 - [Messengers](#messengers)
@@ -113,6 +114,7 @@
   - [Files Shredders](#files-shredders)
   - [Metadata Removal](#metadata-removal)
 - [Development](#development)
+  - [Secrets Management](#secrets-management)
   - [Database](#database)
   - [Analytics](#analytics)
   - [App Notifications](#app-notifications)
@@ -142,6 +144,7 @@
   - [Blogging](#blogging)
   - [Discord](#discord)
   - [Discord Client](#discord-client)
+- [Others](#others-1)
 - [References](#references)
 - [Related](#related)
 
@@ -170,6 +173,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 ## Highlight
 | Name | Description |
 | --- | --- |
+| [Kawiso](https://github.com/firstdecree/kawiso) | Kawiso is a powerful, lightweight, and intuitive analytics platform. Gain actionable insights without compromising user privacy. |
 | [CryptedNote](https://github.com/firstdecree/cryptednote) | Anonymously and Securely save notes anytime with ease. |
 | [VoidFile](https://github.com/firstdecree/voidfile) | Upload files completely anonymously, no registration required. |
 | [ShadowNetwork](https://github.com/firstdecree/shadownetwork) | Store your contacts securely and indefinitely with ease and convenience. |
@@ -232,6 +236,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Proton Pass](https://proton.me/pass) | Proton Pass is a password manager developed by Proton, the creators of ProtonMail. It is designed to offer the same level of privacy and security as Proton’s other services. | N/A |
 | [LessPass](https://lesspass.com/) | Stop wasting your time synchronizing your encrypted vault. Remember one master password to access your passwords, anywhere, anytime, from any device. No sync needed. | N/A |
 | [Padloc](https://padloc.app/) | Padloc not only helps you remember all your passwords, it also securely stores credit cards, notes, documents and more! | N/A |
+| [Buttercup](https://github.com/buttercup) | Buttercup is a free and open source password manager and secret storage utility. You can use it to store all of your various logins and identities so you can access them on all of your devices. | N/A |
 
 ## File Sharing
 | Name | Description | Comments |
@@ -366,6 +371,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [openHab](https://www.openhab.org/) | A vendor and technology agnostic open source automation software for your home. |
 | [Home Assistant](https://www.home-assistant.io/) | Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. |
 | [Calaos](https://calaos.fr/en/) | Calaos is a free software project (GPLv3) that lets you control and monitor your home. You can easily install and use it to transform your home into a smart home. |
+| [Gladys Assistant](https://gladysassistant.com/) | One Platform. Every Device. Complete Privacy. |
 
 ## Online Image Editors
 | Name | Description |
@@ -825,6 +831,12 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Mail](https://mail.tm/) | Protect your personal email address from spam, bots, phishing, and other online abuse with our free temporary disposable anonymous email service. |
 | [Emailnator](https://emailnator.com/) | Gmailnator is a free service that allows getting instant temporary email it is also known as "tempmail", "10 minute mail", "throw away mail", "disposable mail", fake email, and "trash mail". |
 
+### Addons
+| Name | Description |
+| --- | --- |
+| [Mailvelope](https://mailvelope.com/en) | Secure Email Encryption. Secure Email Encryption. |
+| [TorBirdy](https://gitlab.torproject.org/legacy/trac/-/wikis/torbirdy) | TorBirdy is an extension for Mozilla Thunderbird that configures it to make connections over the Tor network. |
+
 ## Browsers
 | Name | Description | Device | Comments |
 | --- | --- | --- | --- |
@@ -948,6 +960,11 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [ImageOptim](https://imageoptim.com/mac) | A Mac image optimization tool that reduces file size without losing quality and also strips out unnecessary metadata (including EXIF) to save disk space and speed up web delivery. | N/A |
 
 ## Development
+### Secrets Management
+| Name | Description |
+| --- | --- |
+| [Infisical](https://infisical.com/) | All-in-one platform to securely manage application secrets, certificates, SSH keys, and configurations across your team and infrastructure. |
+
 ### Database
 | Name | Description |
 | --- | --- |
@@ -969,6 +986,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [Shynet](https://github.com/milesmcc/shynet) | A self-hosted, privacy-centric web analytics tool, designed to be simple, fast, and free of tracking cookies. | N/A | <p align="center">✅</p> | N/A |
 | [Ackee](https://ackee.electerious.com/) | A self-hosted, privacy-focused web analytics tool that provides beautiful insights and works well with minimal data collection. | N/A | <p align="center">✅</p> | N/A |
 | [GoatCounter](https://github.com/arp242/goatcounter) | A simple, privacy-conscious web analytics tool that doesn’t use cookies and can be self-hosted. | N/A | <p align="center">✅</p> | N/A |
+| [Offen](https://github.com/offen/offen) | Let your users access their data. Gain valuable insights at the same time. Open, lightweight, self hosted and free. | <p align="center">✅</p> | N/A |
 
 ### App Notifications
 | Name | Description |  Comments |
@@ -1070,7 +1088,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- |
 | [Codeberg](https://codeberg.org/) | A non-profit, community-run public code hosting platform based in Germany that lets developers host and collaborate on open-source projects using Git. |
 | [Forgejo](https://forgejo.org/) | Free, open-source software forge that you can self-host to manage Git repositories, issue tracking, code reviews, wikis, CI/CD, and other development features. |
-| [GitLab](https://about.gitlab.com/) | A comprehensive DevOps and software development platform built around Git. |
+| [GitLab](https://about.gitlab.com/) | A comprehensive DevOps and software development platform built around Git. |****
 | [Radicle](https://radicle.xyz/) | A peer-to-peer, decentralized code collaboration stack built on Git that removes central servers from the equation. |
 | [Gitea](https://about.gitea.com/) | Great self-hosted option that brings teams and developers high-efficiency, but easy operations from planning to production. |
 
@@ -1159,6 +1177,9 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [BetterDiscord](https://betterdiscord.app/) | An unofficial desktop Discord client mod that injects extra functionality into the standard Discord app, like support for custom themes and plugins, live CSS editing, and various UX tweaks. |
 | [Vencord](https://github.com/Vendicated/Vencord) | A modern Discord client modification (often used via an injector or patched client) that enhances Discord with built-in plugins and theme support, blocks analytics/telemetry, and offers a plugin browser. |
 | [Legcord](https://github.com/Legcord/Legcord) | A standalone custom Discord client (not just a patch of the official app) that wraps Discord’s web client with extra features: built-in mod support (e.g., Vencord), theme support (including BetterDiscord themes), tracker blocking, better stability/performance, and cross-platform compatibility. Like others here, it’s not officially sanctioned by Discord. |
+
+## Others
+- [Privacy Sexy](https://privacy.sexy/)
 
 ## References
 Some of the things here are from the sources below.
