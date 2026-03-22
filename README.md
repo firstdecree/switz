@@ -15,6 +15,7 @@
 - [Search Engines](#search-engines)
 - [Accounts Managers](#accounts-managers)
 - [File Sharing](#file-sharing)
+- [Diagrams](#diagrams)
 - [Online SMS](#online-sms)
 - [Router Firmware](#router-firmware)
 - [VOIP Clients](#voip-clients)
@@ -49,14 +50,20 @@
 - [Payments](#payments)
   - [Ways](#ways)
   - [Virtual Credit Cards (VCC)](#virtual-credit-cards-vcc)
+- [Exchangers](#exchangers)
+  - [General](#general)
+  - [Crypto](#crypto)
 - [Mass Surveillance Projects](#mass-surveillance-projects)
   - [NSA](#nsa)
+- [Clients](#clients)
+  - [Rest API](#rest-api)
 - [Cloud Storage](#cloud-storage)
+  - [Self-Host](#self-host)
   - [S3](#s3)
 - [Software Development](#software-development)
   - [Testing](#testing)
 - [Remote Control](#remote-control)
-  - [General](#general)
+  - [General](#general-1)
   - [RDP](#rdp)
 - [Operating Systems (OS)](#operating-systems-os)
   - [Desktop](#desktop)
@@ -76,7 +83,7 @@
   - [Whistleblowing](#whistleblowing)
 - [Cryptocurrency](#cryptocurrency)
   - [Wallets](#wallets)
-  - [Exchangers](#exchangers)
+  - [Exchangers](#exchangers-1)
 - [Photo Storage](#photo-storage)
   - [Online](#online)
   - [Self-Hosted](#self-hosted)
@@ -88,12 +95,12 @@
 - [Self-Hosted](#self-hosted-1)
   - [Network Security](#network-security)
 - [Proxy](#proxy)
-  - [Clients](#clients)
+  - [Clients](#clients-1)
 - [Privacy](#privacy)
   - [Browser Privacy](#browser-privacy)
 - [Email](#email)
   - [Aliases](#aliases)
-  - [Clients](#clients-1)
+  - [Clients](#clients-2)
   - [Security](#security)
   - [Temporary](#temporary)
   - [Addons](#addons)
@@ -181,6 +188,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 ## Blogs
 | Name | Description |
 | --- | --- |
+| [Wikileaks](https://wikileaks.org/) | WikiLeaks is a non-profit media organization founded in 2006 by Julian Assange that publishes classified, censored, or otherwise restricted documents of political, ethical, or historical significance. |
 | [The Privacy Blog](https://theprivacyblog.com/) | personal blog discussing internet privacy, cybersecurity risks, surveillance issues, and practical security advice written by privacy technologist Lance Cottrell. |
 | [PrivacyDesk](https://privacydesk.in/) | A platform offering resources, training, and consulting on data protection laws, privacy compliance, and privacy program implementation for organizations. |
 | [Hunton Privacy Blog](https://www.hunton.com/privacy-and-cybersecurity-law-blog/) | A legal blog from Hunton Andrews Kurth lawyers that analyzes global privacy, cybersecurity, and data protection law developments. |
@@ -249,6 +257,12 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Send](https://gitlab.com/timvisee/send) | A fork of Mozilla's Firefox Send. Mozilla discontinued Send, this fork is a community effort to keep the project up-to-date and alive. | N\A |
 | [Croc](https://github.com/schollz/croc) | Easily and securely send things from one computer to another 🐊 📦 | N/A |
 | [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) | Get things from one computer to another, safely. | N/A |
+
+## Diagrams
+| Name | Description |
+| --- | --- |
+| [Excalidraw](https://github.com/excalidraw/excalidraw) | Virtual whiteboard for sketching hand-drawn like diagrams. |
+| [DeepNotes](https://deepnotes.app/) | An open source, end-to-end encrypted infinite canvas tool with deep nesting and realtime collaboration. |
 
 ## Online SMS
 | Name | Description |
@@ -382,6 +396,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 **Notes**
 | Name | Description |
 | --- | --- |
+| [Standard Notes](https://standardnotes.com/) | Standard Notes is a free, secure note-taking app with powerful end-to-end encryption, unparalleled privacy features, and seamless cross-platform syncing on unlimited devices. |
 | [Obsidian](https://obsidian.md/) | Markdown-based personal knowledge management app that stores notes locally, lets you link ideas with bidirectional links, and visualize connections as a graph. Great for building a “second brain.” |
 | [Anytype](https://www.anytype.io/) | Local-first, privacy-focused workspace combining notes, structured objects (books, tasks, contacts), and a graph view like a more structured, encrypted Obsidian-style tool. |
 | [Notesnook](https://notesnook.com/) | Simple, secure note app with end-to-end encryption by default and cross-device sync; focused on privacy and ease of use. |
@@ -533,12 +548,26 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [MySudo](https://anonyome.com/individuals/mysudo/) | Keep your phone number, email, and top of wallet card safe. |
 | [Exactly](https://www.exactly.app/) | Turn your crypto into instant credit. Get your free Visa Signature Exa Credit Card and access fixed interest loans with the Exa App. |
 
+## Exchangers
+### General
+| Name | Description |
+| --- | --- |
+| [Hi Exchange](https://hi.exchange/) | Your Trusted Privacy-Focused Platform for Seamless Cryptocurrency and E-Currency Transactions. |
+
+### Crypto
+| Name | Description |
+| --- | --- |
+| [Bisq](https://bisq.network/) | Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely using Bisq's peer-to-peer network and open-source desktop software. No registration required. |
+| [Eigen](https://eigenwallet.org/) | eigenwallet is a battle-tested Monero-Bitcoin DEX based on Atomic Swaps. |
+| [StealthEx](https://stealthex.io/) | No registration or account needed. 450+ coins and tokens are available for quick and easy exchanges. Data privacy and security is a top priority for StealthEX, all swaps are non-custodial. |
+
+
 ## Mass Surveillance Projects
 They are summarized here because the information of these projects are big, for more information please click their name.
 
 ### NSA
 | Name | Description |
-|-----|-------------|
+| --- | --- |
 | [Prism](https://en.wikipedia.org/wiki/PRISM) | Collects information from big tech companies databases. |
 | [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore) | Collects Internet activity, emails, chats, browsing histories & more. |
 | [FASCIA](https://en.wikipedia.org/wiki/FASCIA) | Collects location data of people around the world. |
@@ -551,10 +580,16 @@ They are summarized here because the information of these projects are big, for 
 | [BullRun](https://en.wikipedia.org/wiki/Bullrun_(decryption_program)) | Eavesdrops on encrypted communications by influencing and weakening encryption standards, obtaining master encryption keys, and accessing data before or after encryption. |
 | [FAMS Quiet Skies](https://en.wikipedia.org/wiki/Quiet_Skies) | Surveillance program monitoring airline travelers. |
 
+## Clients
+### Rest API
+| Name | Description |
+| --- | --- |
+| [Insomnia](https://insomnia.rest/) | An AI-native API collaboration platform for developers who never stop building. Test, debug and design any endpoint with MCP client support, AI-powered capabilities, and seamless local, git, or cloud workflows. |
+| [HTTPie](https://httpie.io/) | HTTPie is making APIs simple and intuitive for those building the tools of our time. |
+
 ## Cloud Storage
 | Name | Description | Open-Source | Comments |
 | --- | --- | --- | --- |
-| [Nextcloud](https://nextcloud.com/) | Nextcloud is an open-source platform that enables you to store, share, and collaborate on files in a secure environment. You can host it yourself, giving you full control over your data, or use it with a trusted provider. | <p align="center">✅</p> | N/A |
 | [Proton Drive](https://proton.me/drive) | Proton Drive is a secure cloud storage service developed by Proton, the same team behind Proton Mail. | <p align="center">✅</p> | N/A |
 | [Filen](https://filen.io/) | Reliable zero-knowledge, client-side encrypted cloud storage you can trust. Experience uncompromised security without sacrificing functionality. | <p align="center">✅</p> | The one with the best customer support in my opinion. - NCryptsion |
 | [MegaNZ](https://mega.nz/) | Mega.nz is a cloud storage service that offers end-to-end encryption for your files. With generous free storage (up to 20 GB), Mega lets you upload, sync, and share files securely. | <p align="center">✅</p> | N/A |
@@ -562,6 +597,12 @@ They are summarized here because the information of these projects are big, for 
 | [pCloud](https://www.pcloud.com/) | pCloud is the most secure encrypted cloud storage, where you can store your personal files or backup your PC or share your business documents with your team! | <p align="center">❌</p> | They scan your files. - NCryptsion |
 | [Sync](https://www.sync.com/en/) | Sync.com is a cloud storage service that places privacy and security at the forefront. It offers end-to-end encryption for all files stored in the cloud. | <p align="center">❌</p> |  N/A |
 | [Icedrive](https://icedrive.net/) | Icedrive is a cloud storage service focused on security, performance, and ease of use. It offers zero-knowledge encryption. | <p align="center">❌</p> | Great interface and policies, sadly it's not open-source. - NCryptsion |
+
+### Self-Host
+| Name | Description | Comments |
+| --- | --- | --- |
+| [Nextcloud](https://nextcloud.com/) | Nextcloud is an open-source platform that enables you to store, share, and collaborate on files in a secure environment. You can host it yourself, giving you full control over your data, or use it with a trusted provider. | N/A |
+| [Peergos](https://peergos.org/) | Your private space online. End-to-end encrypted storage, sharing, and sync—no tracking, no ads. | N/A |
 
 ### S3
 | Name | Description | Open-Source | Comments |
@@ -760,6 +801,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- |
 | [Rotki](https://github.com/rotki/rotki) | A portfolio tracking, analytics, accounting and management application that protects your privacy |
 | [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | Ghostfolio is an open source wealth management software built with web technology. The application empowers busy people to keep track of stocks, ETFs or cryptocurrencies and make solid, data-driven investment decisions. The software is designed for personal use in continuous operation. |
+| [Recap](https://recap.io/) | Privacy-focused crypto tax software for US investors. |
 
 ### Others
 | Name | Description |
