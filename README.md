@@ -47,6 +47,7 @@
 - [3D Graphics](#3d-graphics)
 - [Recording](#recording)
 - [Video and Audio Conferencing](#video-and-audio-conferencing)
+- [Youtube](#youtube)
 - [Payments](#payments)
   - [Ways](#ways)
   - [Virtual Credit Cards (VCC)](#virtual-credit-cards-vcc)
@@ -142,7 +143,7 @@
   - [Android App Store](#android-app-store)
   - [Github](#github)
   - [Facebook/Instagram/Twitter](#facebookinstagramtwitter)
-  - [Youtube](#youtube)
+  - [Youtube](#youtube-1)
   - [Wikipedia](#wikipedia)
   - [Medium](#medium)
   - [Reddit](#reddit)
@@ -532,6 +533,14 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Jitsi Meet](https://github.com/jitsi/jitsi-meet) | An open-source video conferencing platform that allows secure, easy-to-use, and scalable video meetings without the need for an account. | N/A |
 | [Jam](https://github.com/jam-systems/jam) | An open-source audio communication tool, often used for team collaboration or group conversations, focusing on simplicity and ease of use. | N/A |
 | [Mumble](https://www.mumble.info/) | A low-latency, high-quality voice chat application, typically used by gamers and communities for group voice communication, with a focus on privacy. | N/A |
+
+## Youtube
+| Name | Description |
+| --- | --- |
+| [Epoch Philosophy](https://www.youtube.com/@epochphilosophy) | Art, theory, technology, and philosophy. |
+| [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) | Mental Outlaw is the online alias of Kenny, an American YouTuber known for his advocacy of digital privacy, GNU/Linux, and Free and Open-Source Software (FOSS). |
+| [Dad, the engineer](https://www.youtube.com/@Dad-The-Engineer) | Avid researcher. Myth debunker. General dreamkiller. |
+| [Reject Convenience](https://www.youtube.com/@rejectconvenience) | Sponsor-free internet cartoons. |
 
 ## Payments
 ### Ways
