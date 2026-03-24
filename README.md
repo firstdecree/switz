@@ -246,6 +246,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [LessPass](https://lesspass.com/) | Stop wasting your time synchronizing your encrypted vault. Remember one master password to access your passwords, anywhere, anytime, from any device. No sync needed. | N/A |
 | [Padloc](https://padloc.app/) | Padloc not only helps you remember all your passwords, it also securely stores credit cards, notes, documents and more! | N/A |
 | [Buttercup](https://github.com/buttercup) | Buttercup is a free and open source password manager and secret storage utility. You can use it to store all of your various logins and identities so you can access them on all of your devices. | N/A |
+| [CarryPass](https://github.com/racz-zoltan/racz-zoltan.github.io) | CarryPass is an open-source, client-side password manager and credential sharing tool built with strong cryptographic primitives and a zero-knowledge philosophy. | N/A |
 
 ## File Sharing
 | Name | Description | Comments |
@@ -401,6 +402,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Obsidian](https://obsidian.md/) | Markdown-based personal knowledge management app that stores notes locally, lets you link ideas with bidirectional links, and visualize connections as a graph. Great for building a “second brain.” |
 | [Anytype](https://www.anytype.io/) | Local-first, privacy-focused workspace combining notes, structured objects (books, tasks, contacts), and a graph view like a more structured, encrypted Obsidian-style tool. |
 | [Notesnook](https://notesnook.com/) | Simple, secure note app with end-to-end encryption by default and cross-device sync; focused on privacy and ease of use. |
+| [BitNote](https://github.com/RockwellShah/bitnote) | Ultra-secure notes powered by blockchain. |
 | [Capacities](https://capacities.io/) | Block-based personal knowledge management tool that blends notes, linked data, and simple task/project organization designed for visual linking and personal workflows. |
 | [SiYuan](https://github.com/siyuan-note/siyuan) | Privacy-first, open-source knowledge management app with block-level editing, bidirectional links, Markdown/WYSIWYG editor, and rich features for organizing large or complex content. |
 | [Logseq](https://logseq.com/) | Free, open-source PKM (personal knowledge base) app centered on outlining, bidirectional links, and local Markdown/org-mode files; excellent for hierarchical notes and research tracking. |
@@ -556,6 +558,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Privacy](https://www.privacy.com/) | Privacy and security built into your payments. |
 | [MySudo](https://anonyome.com/individuals/mysudo/) | Keep your phone number, email, and top of wallet card safe. |
 | [Exactly](https://www.exactly.app/) | Turn your crypto into instant credit. Get your free Visa Signature Exa Credit Card and access fixed interest loans with the Exa App. |
+| [Halocard](https://halocard.co/) | Create US-issued virtual credit cards in seconds. Pay online or in person wherever Visa is accepted. Keep your transactions private & personal information protected with Halocard. |
 
 ## Exchangers
 ### General
@@ -816,6 +819,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | Name | Description |
 | --- | --- |
 | [Debitum](https://github.com/Marmo/debitum) | Free and libre IOU tracker for Android. |
+| [KnowYourPrivacy](https://github.com/jonaslouison/KnowYourPrivacy) | A privacy-focused quiz web app that helps users understand and improve their digital privacy. All data is processed client-side with encryption - no servers, no tracking, no accounts required. |
 
 ## Self-Hosted
 ### Network Security
@@ -855,6 +859,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 ### Aliases
 | Name | Description | Comments |
 | --- | --- | --- |
+| [Qwacky](https://github.com/Lanshuns/Qwacky) | Qwacky is an open source client for DuckDuckGo Email Protection, To manage and generate @duck.com aliases. | N/A |
 | [SimpleLogin](https://simplelogin.io/) | A privacy-focused, open-source email aliasing service that lets you create alternate email addresses to protect your real inbox. | "Our" favorite. - NCryptsion |
 | [Addy](https://addy.io/) | An open-source anonymous email forwarding service (formerly AnonAddy) where you register a username and then create unlimited email aliases under domains like @anonaddy.com or your own domain. | N/A |
 | [AliasVault](https://www.aliasvault.net/) | A privacy-first tool that combines password management with email alias generation and identity creation. | It's really good. - NCryptsion |
