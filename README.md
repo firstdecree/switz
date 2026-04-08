@@ -53,7 +53,6 @@
   - [Virtual Credit Cards (VCC)](#virtual-credit-cards-vcc)
 - [Exchangers](#exchangers)
   - [General](#general)
-  - [Crypto](#crypto)
 - [Mass Surveillance Projects](#mass-surveillance-projects)
   - [NSA](#nsa)
 - [Clients](#clients)
@@ -85,6 +84,7 @@
 - [Cryptocurrency](#cryptocurrency)
   - [Wallets](#wallets)
   - [Exchangers](#exchangers-1)
+  - [Anonymizer](#anonymizer)
 - [Photo Storage](#photo-storage)
   - [Online](#online)
   - [Self-Hosted](#self-hosted)
@@ -97,6 +97,7 @@
   - [Network Security](#network-security)
 - [Proxy](#proxy)
   - [Clients](#clients-1)
+  - [Shadowsocks Plugins](#shadowsocks-plugins)
 - [Privacy](#privacy)
   - [Browser Privacy](#browser-privacy)
 - [Email](#email)
@@ -566,14 +567,6 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | --- | --- |
 | [Hi Exchange](https://hi.exchange/) | Your Trusted Privacy-Focused Platform for Seamless Cryptocurrency and E-Currency Transactions. |
 
-### Crypto
-| Name | Description |
-| --- | --- |
-| [Bisq](https://bisq.network/) | Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely using Bisq's peer-to-peer network and open-source desktop software. No registration required. |
-| [Eigen](https://eigenwallet.org/) | eigenwallet is a battle-tested Monero-Bitcoin DEX based on Atomic Swaps. |
-| [StealthEx](https://stealthex.io/) | No registration or account needed. 450+ coins and tokens are available for quick and easy exchanges. Data privacy and security is a top priority for StealthEX, all swaps are non-custodial. |
-
-
 ## Mass Surveillance Projects
 They are summarized here because the information of these projects are big, for more information please click their name.
 
@@ -775,6 +768,13 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [RoboSats](https://robosats.org/) | P2P exchange bitcoin for national currencies. Robosats simplifies the peer-to-peer user experience. |
 | [Bisq](https://bisq.network/) | Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely using Bisq's peer-to-peer network and open-source desktop software. No registration required. |
 | [BasicSwap](https://basicswapdex.com/) | Cross-chain trading exchange (DEX) peer-to-peer trading of cryptocurrencies like Bitcoin and Monero. It uses Particl's network, atomic swaps, and scriptless scripts for transactions without third-party involvement. |
+| [Eigen](https://eigenwallet.org/) | eigenwallet is a battle-tested Monero-Bitcoin DEX based on Atomic Swaps. |
+| [StealthEx](https://stealthex.io/) | No registration or account needed. 450+ coins and tokens are available for quick and easy exchanges. Data privacy and security is a top priority for StealthEX, all swaps are non-custodial. |
+
+### Anonymizer
+| Name | Description |
+| --- | --- |
+| [CoinMix](https://coinmix.cash/) | BTC Mixer. Easy Bitcoin mixing for everyday privacy. |
 
 ## Photo Storage
 ### Online
@@ -835,6 +835,13 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- |
 | [Privoxy](https://www.privoxy.org/) | Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. |
 | [Shadowsocks](https://shadowsocks.org/) | A fast tunnel proxy that helps you bypass firewalls. |
+
+### Shadowsocks Plugins
+| Name | Description |
+| --- | --- |
+| [GoQuiet](https://github.com/cbeuw/GoQuiet) | A Shadowsocks obfuscation plugin utilising domain fronting to evade deep packet inspection. |
+| [Cloak](https://github.com/cbeuw/Cloak) | A censorship circumvention tool to evade detection by authoritarian state adversaries. |
+| [V2Ray Plugin](https://github.com/shadowsocks/v2ray-plugin) | It enables Shadowsocks traffic to be transmitted over WebSocket or QUIC protocols, with optional TLS encryption, making the traffic more resilient against detection and blocking. |
 
 ## Privacy
 ### Browser Privacy
