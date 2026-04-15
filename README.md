@@ -186,6 +186,8 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [CryptedNote](https://github.com/firstdecree/cryptednote) | Anonymously and Securely save notes anytime with ease. |
 | [VoidFile](https://github.com/firstdecree/voidfile) | Upload files completely anonymously, no registration required. |
 | [ShadowNetwork](https://github.com/firstdecree/shadownetwork) | Store your contacts securely and indefinitely with ease and convenience. |
+| [Lowkey](https://lwkey.vercel.app/) | ngl.link open-source and privacy-focused alternative. Your friends have secrets. Find out what they really think about you on LowKey. |
+| [GitFaye](https://github.com/firstdecree/gitfaye) | Keep your GitHub repositories clean. Detect leaks, mistakes, and vulnerabilities before you even know they exist. |
 
 ## Blogs
 | Name | Description |
