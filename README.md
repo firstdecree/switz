@@ -543,6 +543,8 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 ## Youtube
 | Name | Description |
 | --- | --- |
+| [LaserHelix](https://www.youtube.com/@LaserHelix) | Surviving the technocracy. Mainly about surveillance and digital threats. |
+| [Daniel Boctor](https://www.youtube.com/@DanielBoctor) | I'm just here to share my experiences throughout my ongoing journey of computer science and software engineering studies. I have a passion for learning, and I hope you do too. | 
 | [Epoch Philosophy](https://www.youtube.com/@epochphilosophy) | Art, theory, technology, and philosophy. |
 | [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA) | Mental Outlaw is the online alias of Kenny, an American YouTuber known for his advocacy of digital privacy, GNU/Linux, and Free and Open-Source Software (FOSS). |
 | [Dad, the engineer](https://www.youtube.com/@Dad-The-Engineer) | Avid researcher. Myth debunker. General dreamkiller. |
