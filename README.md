@@ -9,6 +9,7 @@
 - [Quotes](#quotes)
 - [Top Countries](#top-countries)
 - [Highlight](#highlight)
+- [Checklists](#checklists)
 - [Blogs](#blogs)
 - [2FA](#2fa)
 - [Encryptions](#encryptions)
@@ -190,6 +191,11 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [GitFaye](https://github.com/firstdecree/gitfaye) | Keep your GitHub repositories clean. Detect leaks, mistakes, and vulnerabilities before you even know they exist. |
 | [ClippedLinks](https://github.com/firstdecree/clippedlinks) | Save your favorite links elegantly without compromise. Easy bookmark. |
 
+## Checklists
+| Name | Description |
+| --- | --- |
+| [ActivistChecklist](https://activistchecklist.org/) | Plain language steps for digital security. Because protecting yourself helps keep your whole community safer. |
+
 ## Blogs
 | Name | Description |
 | --- | --- |
@@ -236,6 +242,7 @@ Ultimately, it depends on how effectively the service implements privacy by desi
 | [Fess](https://fess.codelibs.org/) | Providing an Enterprise Search Server as Open Source. |
 | [Ahmia](https://ahmia.fi/) | A search engine for services accessible on the Tor network. |
 | [SearXNG](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. |
+| [PriEco](https://codeberg.org/JojoYou/PriEco/) | A fast, privacy-first, eco-conscious hybrid web search engine written in Rust. |
 
 ## Accounts Managers
 | Name | Description | Comments |
