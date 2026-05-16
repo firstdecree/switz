@@ -623,10 +623,16 @@ They are summarized here because the information of these projects are big, for 
 | [Peergos](https://peergos.org/) | Your private space online. End-to-end encrypted storage, sharing, and sync—no tracking, no ads. | N/A |
 
 ### S3
-| Name | Description | Open-Source | Comments |
-| --- | --- | --- | --- |
-| [S3Drive](https://s3drive.app/) | Zero Knowledge E2E encrypted storage compatible with multiple providers. | <p align="center">❌</p> | Very friendly owner, one of my favorite. - NCryptsion |
-| [Storj](https://www.storj.io/) | Get S3 compatible object storage and compute with local-like access. No lock-ins. Blazing fast. 80% lower costs. | <p align="center">❌</p> | N/A |
+To be honest any S3 providers will do the job because you only need a client to encrypt your data before sending to them. **S3Drive** does the job, but if you want total security, make your own which is not that hard.
+
+But here, only providers that deserves recognition will be listed because of their overall performance, pricing, customer service and likewise.
+
+| Name | Description | Client | Open-Source | Comments |
+| --- | --- | --- | --- | --- |
+| [S3Drive](https://s3drive.app/) | Zero Knowledge E2E encrypted storage compatible with multiple providers. | <p align="center">✅</p> | <p align="center">❌</p> | Very friendly owner and one of the best S3 Provider. - NCryptsion |
+| [Storj](https://www.storj.io/) | Get S3 compatible object storage and compute with local-like access. No lock-ins. Blazing fast. 80% lower costs. | <p align="center">❌</p> | <p align="center">❌</p> | N/A |
+| [BackBlaze](https://www.backblaze.com/) | Backblaze offers specialized cloud storage that makes it astonishingly easy for businesses to store, use, and protect their data. | <p align="center">❌</p> | <p align="center">❌</p> | N/A |
+| [iDrive S3](https://www.idrive.com/s3-storage-e2/) | IDrive e2 is a highly scalable, S3-compatible object storage service designed for developers and businesses, offering a cost-effective alternative to major providers like Amazon S3. | <p align="center">❌</p> | <p align="center">❌</p> | N/A |
 
 ## Software Development
 ### Testing
@@ -795,6 +801,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | --- | --- |
 | [Ente](https://ente.io/) | Safe home for your photos. End-to-end encrypted. Cross-platform. Open-source. |
 | [Stingle Photos](https://stingle.org/) | Stingle Photos is a convenient, easy to use Gallery/Camera application with Backup and Sync functionality for your photos and videos which seamlessly provides strong security, privacy and encryption. |
+| [Zeitkapsl](https://zeitkapsl.eu/) | The secure place for your photos. |
 
 ### Self-Hosted
 | Name | Description |
@@ -1034,6 +1041,7 @@ Those with the Indication "Careful", You can contact the owners and see if you c
 | [ExifTool](https://exiftool.org/) | A powerful command-line metadata reader/writer/editor that works with many file formats. It’s widely used to view, edit, or remove metadata (EXIF, IPTC, XMP, GPS, etc.) from photos, videos, documents, and more. | The best. - NCryptsion |
 | [ExifCleaner](https://exifcleaner.com/) | A graphical desktop app built on ExifTool that lets you remove metadata (like camera details and GPS) from images, videos, PDFs, and other files using a simple drag-and-drop interface. | N/A |
 | [ImageOptim](https://imageoptim.com/mac) | A Mac image optimization tool that reduces file size without losing quality and also strips out unnecessary metadata (including EXIF) to save disk space and speed up web delivery. | N/A |
+| [MetadataZero](https://github.com/metadatazero/metadatazero) | Remove metadata from your photos and documents. | N/A |
 
 ## Development
 ### Secrets Management
