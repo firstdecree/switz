@@ -630,9 +630,9 @@ But here, only providers that deserves recognition will be listed because of the
 | Name | Description | Client | Open-Source | Comments |
 | --- | --- | --- | --- | --- |
 | [S3Drive](https://s3drive.app/) | Zero Knowledge E2E encrypted storage compatible with multiple providers. | <p align="center">✅</p> | <p align="center">❌</p> | Very friendly owner and one of the best S3 Provider. - NCryptsion |
-| [Storj](https://www.storj.io/) | Get S3 compatible object storage and compute with local-like access. No lock-ins. Blazing fast. 80% lower costs. | <p align="center">❌</p> | <p align="center">❌</p> | N/A |
-| [BackBlaze](https://www.backblaze.com/) | Backblaze offers specialized cloud storage that makes it astonishingly easy for businesses to store, use, and protect their data. | <p align="center">❌</p> | <p align="center">❌</p> | N/A |
-| [iDrive S3](https://www.idrive.com/s3-storage-e2/) | IDrive e2 is a highly scalable, S3-compatible object storage service designed for developers and businesses, offering a cost-effective alternative to major providers like Amazon S3. | <p align="center">❌</p> | <p align="center">❌</p> | N/A |
+| [Storj](https://www.storj.io/) | Get S3 compatible object storage and compute with local-like access. No lock-ins. Blazing fast. 80% lower costs. | <p align="center">❌</p> | <p align="center">❌</p> | Literally built for security and privacy, decentralized. - NCryptsion |
+| [BackBlaze](https://www.backblaze.com/) | Backblaze offers specialized cloud storage that makes it astonishingly easy for businesses to store, use, and protect their data. | <p align="center">❌</p> | <p align="center">❌</p> | Best in pay-as-you-go. - Ncryptsion |
+| [iDrive E2](https://www.idrive.com/s3-storage-e2/) | IDrive e2 is a highly scalable, S3-compatible object storage service designed for developers and businesses, offering a cost-effective alternative to major providers like Amazon S3. | <p align="center">❌</p> | <p align="center">❌</p> | The king in pricing. - NCryptsion |
 
 ## Software Development
 ### Testing
